@@ -1,0 +1,6 @@
+com\demo\service\StudentService.class
+com\demo\dao\StudentDao.class
+com\demo\service\StudentServiceImpl.class
+com\demo\SpringBootMVCPractice.class
+com\demo\controller\studentController.class
+com\demo\model\Student.class
